@@ -4,7 +4,7 @@
 
 
 
-<a href="https://github.com/ROBERT-Gimenez/Trabajos_Practicos_Formar/tree/master/6-Mercado_Liebre_2_Estilos/Objetivo">IR AL PDF</a>
+<a href="https://github.com/ROBERT-Gimenez/ML_Estilos/blob/master/Objetivo/M04C03%20-%20Ejercitaci%C3%B3n_Mercado_Liebre_2_Estilos%20PAD.pdf">IR AL PDF</a>
 
 <h2>Preview del desafio finalizado<h2>
 
